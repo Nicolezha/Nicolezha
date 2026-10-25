@@ -32,7 +32,7 @@ South America-North, me ha dado una base sólida en algoritmos y resolución de 
 
 ### 🍦 [GELOX](https://github.com/Nicolezha/gelox-backend)
 Plataforma web multi-tenant para la gestión de distribuidoras y MiPYMEs de Cúcuta (piloto: Mágico Sabor). Inventario por lotes, ventas, dashboard financiero y un módulo de analítica predictiva para pronóstico de demanda y riesgo de crédito.
-`Spring Boot` `React + Vite` `Supabase (PostgreSQL)` `Firebase Auth` `FastAPI` `Docker` `Render`
+`Spring Boot` `React + Vite` `Supabase (PostgreSQL)` `Firebase Auth` `Docker` `Render`
 
 ### 📚 [Plataforma ABP](https://github.com/ImJGTorres/abp-platform)
 Plataforma de gestión del Aprendizaje Basado en Proyectos para la UFPS, con roles de administrador, docente, director de programa, estudiante y líder de equipo. Desarrollada con Scrum en 4 sprints.
